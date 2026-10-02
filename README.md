@@ -1,9 +1,5 @@
 # Presentación Amalia
 
-Presentación personal de cinco minutos. Sitio estático sin dependencias.
+Presentación personal con 46 fotografías autorizadas para publicación. Sitio estático sin dependencias.
 
-## Uso
-Servir la carpeta con un servidor HTTP. Abrir index.html. Navegar con el menú o las flechas. Las fotos se amplían al pulsarlas. Pantalla completa disponible.
-
-## Pendiente
-Carga de las fotografías pendiente de autorización para publicación pública. Los textos del desafío y las expectativas del curso son editables y se guardan únicamente en el navegador.
+Navegar mediante el menú o las flechas. Pulsar fotografías para ampliarlas. El cierre permite escribir el desafío personal y lo que se espera del curso; estas respuestas se guardan en el navegador.
